@@ -21,7 +21,7 @@
     "html2canvas": "^1.0.0-rc.3",
     "jsonp": "^0.2.1",
     "lodash": "^4.17.15",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "pixi.js": "4",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.4",
